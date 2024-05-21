@@ -1,7 +1,5 @@
 # Emotion Recognition from Audio
 
-A brief description of what this project does and who it's for
-
 ## Project Description
 
 This project aims to develop a robust system for recognizing emotions from audio files. Leveraging advanced deep learning techniques, the project processes audio data, extracts relevant features, and trains a model to accurately predict the emotional state conveyed in the audio. The ultimate goal is to provide a user-friendly interface through a Streamlit app where users can upload their audio files and receive real-time emotion predictions.
